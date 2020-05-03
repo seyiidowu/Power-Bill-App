@@ -1,0 +1,30 @@
+C:\Users\jolaw\source\repos\PowerBill\PowerBill\bin\Debug\PowerBill.exe.config
+C:\Users\jolaw\source\repos\PowerBill\PowerBill\bin\Debug\PowerBill.exe
+C:\Users\jolaw\source\repos\PowerBill\PowerBill\bin\Debug\PowerBill.pdb
+C:\Users\jolaw\source\repos\PowerBill\PowerBill\obj\Debug\PowerBill.csprojAssemblyReference.cache
+C:\Users\jolaw\source\repos\PowerBill\PowerBill\obj\Debug\PowerBill.frmMain.resources
+C:\Users\jolaw\source\repos\PowerBill\PowerBill\obj\Debug\PowerBill.Properties.Resources.resources
+C:\Users\jolaw\source\repos\PowerBill\PowerBill\obj\Debug\PowerBill.csproj.GenerateResource.cache
+C:\Users\jolaw\source\repos\PowerBill\PowerBill\obj\Debug\PowerBill.csproj.CoreCompileInputs.cache
+C:\Users\jolaw\source\repos\PowerBill\PowerBill\obj\Debug\PowerBill.exe
+C:\Users\jolaw\source\repos\PowerBill\PowerBill\obj\Debug\PowerBill.pdb
+C:\Users\Seyi\source\repos\DAy6\Lab 1 feedback files Apr 20, 2020 923 AM\Lab 1 Sample SOLUTION\PowerBill\PowerBill\obj\Debug\PowerBill.csprojAssemblyReference.cache
+C:\Users\Seyi\source\repos\DAy6\Lab 1 feedback files Apr 20, 2020 923 AM\Lab 1 Sample SOLUTION\PowerBill\PowerBill\obj\Debug\PowerBill.frmMain.resources
+C:\Users\Seyi\source\repos\DAy6\Lab 1 feedback files Apr 20, 2020 923 AM\Lab 1 Sample SOLUTION\PowerBill\PowerBill\obj\Debug\PowerBill.Properties.Resources.resources
+C:\Users\Seyi\source\repos\DAy6\Lab 1 feedback files Apr 20, 2020 923 AM\Lab 1 Sample SOLUTION\PowerBill\PowerBill\obj\Debug\PowerBill.csproj.GenerateResource.cache
+C:\Users\Seyi\source\repos\DAy6\Lab 1 feedback files Apr 20, 2020 923 AM\Lab 1 Sample SOLUTION\PowerBill\PowerBill\obj\Debug\PowerBill.csproj.CoreCompileInputs.cache
+C:\Users\Seyi\source\repos\DAy6\Lab 1 feedback files Apr 20, 2020 923 AM\Lab 1 Sample SOLUTION\PowerBill\PowerBill\obj\Debug\PowerBill.exe
+C:\Users\Seyi\source\repos\DAy6\Lab 1 feedback files Apr 20, 2020 923 AM\Lab 1 Sample SOLUTION\PowerBill\PowerBill\obj\Debug\PowerBill.pdb
+C:\Users\Seyi\source\repos\DAy6\Lab 1 feedback files Apr 20, 2020 923 AM\Lab 1 Sample SOLUTION\PowerBill\PowerBill\bin\Debug\PowerBill.exe.config
+C:\Users\Seyi\source\repos\DAy6\Lab 1 feedback files Apr 20, 2020 923 AM\Lab 1 Sample SOLUTION\PowerBill\PowerBill\bin\Debug\PowerBill.exe
+C:\Users\Seyi\source\repos\DAy6\Lab 1 feedback files Apr 20, 2020 923 AM\Lab 1 Sample SOLUTION\PowerBill\PowerBill\bin\Debug\PowerBill.pdb
+C:\Users\Seyi\source\repos\Assignments\PowerBill\PowerBill\bin\Debug\PowerBill.exe.config
+C:\Users\Seyi\source\repos\Assignments\PowerBill\PowerBill\bin\Debug\PowerBill.exe
+C:\Users\Seyi\source\repos\Assignments\PowerBill\PowerBill\bin\Debug\PowerBill.pdb
+C:\Users\Seyi\source\repos\Assignments\PowerBill\PowerBill\obj\Debug\PowerBill.csprojAssemblyReference.cache
+C:\Users\Seyi\source\repos\Assignments\PowerBill\PowerBill\obj\Debug\PowerBill.frmMain.resources
+C:\Users\Seyi\source\repos\Assignments\PowerBill\PowerBill\obj\Debug\PowerBill.Properties.Resources.resources
+C:\Users\Seyi\source\repos\Assignments\PowerBill\PowerBill\obj\Debug\PowerBill.csproj.GenerateResource.cache
+C:\Users\Seyi\source\repos\Assignments\PowerBill\PowerBill\obj\Debug\PowerBill.csproj.CoreCompileInputs.cache
+C:\Users\Seyi\source\repos\Assignments\PowerBill\PowerBill\obj\Debug\PowerBill.exe
+C:\Users\Seyi\source\repos\Assignments\PowerBill\PowerBill\obj\Debug\PowerBill.pdb
